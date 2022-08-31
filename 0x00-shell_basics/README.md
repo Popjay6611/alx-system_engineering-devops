@@ -6,4 +6,5 @@ ls -l - Display current directory contents in a long format
 ls -la  -Display current directory contents, including hidden files
 ls -la  Display current directory contents
 mkdir /tmp/my_first_directory  -Create a script that creates a directory
-mv betty /tmp/my_first_directory - moving file
+mv /tmp/betty /tmp/my_first_directory - moving file
+rm betty /tmp/my_first_directory
