@@ -1,2 +1,1 @@
-#!/bin/bash
-pwd -used to print the current working directory path
+la -uesd to display the content list of the working directory
