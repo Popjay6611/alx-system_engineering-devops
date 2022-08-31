@@ -5,3 +5,4 @@ cd  - to change from working directory to users directorys
 ls -l - Display current directory contents in a long format
 ls -la  -Display current directory contents, including hidden files
 ls -la  Display current directory contents
+mkdir /tmp/my_first_directory  -Create a script that creates a directory
